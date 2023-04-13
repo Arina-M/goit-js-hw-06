@@ -43,3 +43,12 @@ ul {
   width: 690px;
   height: 400px;
 }
+
+
+.boxes {
+  display: inline-block;
+  margin: 10px;
+  width: 30px;
+  height: 30px;
+  border: none;
+}
